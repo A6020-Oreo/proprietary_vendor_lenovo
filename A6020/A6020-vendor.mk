@@ -471,4 +471,5 @@ PRODUCT_PACKAGES += \
     ims \
     imscmlibrary \
     imssettings \
+    libaudioalsa \
     TimeService
